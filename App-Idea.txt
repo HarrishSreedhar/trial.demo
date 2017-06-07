@@ -1,0 +1,24 @@
+What does the app do? : Connects quiz enthusiasts and gives them a space for sharing and accessing details about 
+upcoming quiz events in their city
+
+Motivation: A web application that lets quizzers disseminate information about quizzes they're hosting will help 
+save a lot of time, as they won't need to spend time trawling various Facebook groups, WhatsApp groups, 
+and generic cultual-event websites for details about quizzes.
+
+Functionality:
+In addition to generic pages that let users log in / register, the app will have 3 main screens that encompass 
+the following functionalities:
+
+1.Add details of a quiz you're hosting. This will include venue, date and time,
+  topic of the quiz (like 'Sports', 'Science and Technology', 'Business', etc), number of members allowed per team, 
+  prize money, etc.
+----------------------------------------------------------------------------------------------------------------------------
+2. Select a city and view details about
+ quizzes happening there in the next two months.
+ In addition to the details of the quiz, you will also be able to view the user profile of the person who added that quiz
+ (name, organization, number of quizzes he / she has hosted in the past).
+ Quizzes hosted by experienced hosts (rank by number of quizzes hosted) will be displayed at the top.
+-----------------------------------------------------------------------------------------------------------------------------
+3. A sticky list that allows users to save their favourite quizzes in the form of annotated Slideshare links.
+ Slideshare has a large repository of quizzes uploaded by people who conduct quizzes, and this feature of the web-app will allow users to maintain a personal list 
+of their favourite quizzes, with the option to add annotations if needed.
